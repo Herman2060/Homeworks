@@ -1,0 +1,16 @@
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\bin\Debug\net5.0\Task1.1.exe
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\bin\Debug\net5.0\Task1.1.deps.json
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\bin\Debug\net5.0\Task1.1.runtimeconfig.json
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\bin\Debug\net5.0\Task1.1.runtimeconfig.dev.json
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\bin\Debug\net5.0\Task1.1.dll
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\bin\Debug\net5.0\ref\Task1.1.dll
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\bin\Debug\net5.0\Task1.1.pdb
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\obj\Debug\net5.0\Task1.1.csproj.AssemblyReference.cache
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\obj\Debug\net5.0\Task1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\obj\Debug\net5.0\Task1.1.AssemblyInfoInputs.cache
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\obj\Debug\net5.0\Task1.1.AssemblyInfo.cs
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\obj\Debug\net5.0\Task1.1.csproj.CoreCompileInputs.cache
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\obj\Debug\net5.0\Task1.1.dll
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\obj\Debug\net5.0\ref\Task1.1.dll
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\obj\Debug\net5.0\Task1.1.pdb
+C:\Users\gpoyd\RiderProjects\Task1.1\Task1.1\obj\Debug\net5.0\Task1.1.genruntimeconfig.cache
