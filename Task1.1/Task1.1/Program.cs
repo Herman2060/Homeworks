@@ -9,8 +9,20 @@ namespace Task1._1
     {
         static void Main(string[] args)
         {
-            List < Furniture.Furniture> furnitures = new List<Furniture.Furniture>();
+            Table table = new Table("table");
+            Chair chair = new Chair("chair");
+            Wardrobe wardrobe = new Wardrobe("Waardrobe");
+            TV tv = new TV("TV");
+            tv.IsWork = true;
 
+            Bathroom bathroom = new Bathroom();
+
+            bathroom.Name = "bathroom";
+
+            LivingRoom livingRoom = new LivingRoom();
+
+            livingRoom.Name = "Living Room";
+            
             
         }
     }

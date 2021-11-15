@@ -1,49 +1,80 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace Task1._1.Rooms
 {
-    public class Room : GeometryObject
+    public abstract class Room : IGeometryObject
     {
-        private float square;
+        private string _name;
+        private float _square;
+        private float _width;
+        private float _length;
+        static float _squareSum = 0;
         private bool _enoughSpace;
-        private List <Furniture.Furniture> furnitures;
+        private List <IGeometryObject> _furnitures;
 
-        public Room()
+        public Room(int square = 25)
         {
-            square = 25;
-            furnitures = new List<Furniture.Furniture>();
+            _square = square;
+            _furnitures = new List<IGeometryObject>();
+        }
+
+        public string Name
+        {
+            get => _name;
+            set => _name = value;
         }
         
-        public bool isEnoughSpace()
+        public float Width 
         {
-            if (furnitures.Count == 0)
+            get => _width;
+            set
             {
-                return true;
-            }
-            float squareSum = 0;
-            foreach (var furniture in furnitures)
-            {
-                squareSum += furniture.Square();
-            }
-
-            if (square > squareSum)
-            {
-                _enoughSpace = true;
-            }
-            else
-            {
-                _enoughSpace = false;
-            }
-
-            return _enoughSpace;
+                if (value > 0)
+                {
+                    _width = value;
+                }
+                else
+                {
+                    Console.WriteLine("Ты дурак, что ли?");
+                }
+            } 
         }
 
-        public void AddFurniture(Furniture.Furniture furniture)
+        public float Length
         {
-            if (isEnoughSpace())
+            get => _length;
+            set
             {
-                furnitures.Add(furniture);
+                if (value > 0)
+                {
+                    _length = value;
+                }
+                else
+                {
+                    Console.WriteLine("Ты дурак, что ли?");
+                }
+            } 
+        }
+
+        private bool IsEnoughSpace()
+        {
+            return _enoughSpace = _square > _squareSum ? true : false;
+        }
+
+        public void OccupiedPlace()
+        {
+            _squareSum += _furnitures[_furnitures.Count-1].Square();
+
+            Console.WriteLine($"Capacity: {_squareSum} of {_square}");
+        }
+
+        public void AddFurniture(IGeometryObject geometryObject)
+        {
+            if (IsEnoughSpace())
+            {
+                _furnitures.Add(geometryObject);
             }
             else
             {
@@ -53,13 +84,21 @@ namespace Task1._1.Rooms
 
         public void FurnitureArrangement()
         {
-            for (int i = 0; i < furnitures.Count; i++)
+            for (int i = 0; i < _furnitures.Count; i++)
             {
-                Console.WriteLine($"{i}. {furnitures[i]._name}");       
+                Console.WriteLine($"{i}. {_furnitures[i].Name}");       
             }
         }
-        
-        
-        
+
+        public void MixFurniture()
+        {
+            Random r = new Random();
+            _furnitures = _furnitures.OrderBy(x=>r.Next()).ToList();
+        }
+
+        public float Square()
+        {
+            return _length * _width;
+        }
     }
 }

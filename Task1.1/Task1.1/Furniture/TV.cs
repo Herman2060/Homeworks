@@ -8,7 +8,6 @@ namespace Task1._1.Furniture
 
         public TV (string name) : base (name)
         {
-            _name = name;
             _iswork = false;
         }
 
@@ -26,19 +25,19 @@ namespace Task1._1.Furniture
                 {
                     Console.WriteLine("TV is already ON");
                 }
-                else if (!(_iswork && value))
+                else if (!_iswork && !value)
                 {
                     Console.WriteLine("TV is already OFF");
                 }
                 else
                 {
                     _iswork = value;
-                    Console.WriteLine("Done!");
+                    Console.WriteLine("TV is {0}", value ? "ON" : "OFF");
                 }
             }
         }
 
-        public void Move()
+        public override void Move()
         {
             if (_iswork)
             {
