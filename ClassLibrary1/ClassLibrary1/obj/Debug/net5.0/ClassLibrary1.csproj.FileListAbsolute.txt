@@ -1,0 +1,12 @@
+C:\Users\gpoyd\RiderProjects\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\gpoyd\RiderProjects\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpoyd\RiderProjects\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\gpoyd\RiderProjects\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\gpoyd\RiderProjects\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\gpoyd\RiderProjects\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.deps.json
+C:\Users\gpoyd\RiderProjects\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.dll
+C:\Users\gpoyd\RiderProjects\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ref\ClassLibrary1.dll
+C:\Users\gpoyd\RiderProjects\ClassLibrary1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.pdb
+C:\Users\gpoyd\RiderProjects\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.dll
+C:\Users\gpoyd\RiderProjects\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ref\ClassLibrary1.dll
+C:\Users\gpoyd\RiderProjects\ClassLibrary1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.pdb
