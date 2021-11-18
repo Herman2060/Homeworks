@@ -1,0 +1,16 @@
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\bin\Debug\net5.0\BallGame.exe
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\bin\Debug\net5.0\BallGame.deps.json
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\bin\Debug\net5.0\BallGame.runtimeconfig.json
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\bin\Debug\net5.0\BallGame.runtimeconfig.dev.json
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\bin\Debug\net5.0\BallGame.dll
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\bin\Debug\net5.0\ref\BallGame.dll
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\bin\Debug\net5.0\BallGame.pdb
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\obj\Debug\net5.0\BallGame.csproj.AssemblyReference.cache
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\obj\Debug\net5.0\BallGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\obj\Debug\net5.0\BallGame.AssemblyInfoInputs.cache
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\obj\Debug\net5.0\BallGame.AssemblyInfo.cs
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\obj\Debug\net5.0\BallGame.csproj.CoreCompileInputs.cache
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\obj\Debug\net5.0\BallGame.dll
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\obj\Debug\net5.0\ref\BallGame.dll
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\obj\Debug\net5.0\BallGame.pdb
+C:\Users\gpoyd\RiderProjects\Task1.3\BallGame\obj\Debug\net5.0\BallGame.genruntimeconfig.cache
