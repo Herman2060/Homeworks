@@ -1,0 +1,16 @@
+C:\Users\gpoyd\RiderProjects\Test1\Test1\bin\Debug\net5.0\Test1.exe
+C:\Users\gpoyd\RiderProjects\Test1\Test1\bin\Debug\net5.0\Test1.deps.json
+C:\Users\gpoyd\RiderProjects\Test1\Test1\bin\Debug\net5.0\Test1.runtimeconfig.json
+C:\Users\gpoyd\RiderProjects\Test1\Test1\bin\Debug\net5.0\Test1.runtimeconfig.dev.json
+C:\Users\gpoyd\RiderProjects\Test1\Test1\bin\Debug\net5.0\Test1.dll
+C:\Users\gpoyd\RiderProjects\Test1\Test1\bin\Debug\net5.0\ref\Test1.dll
+C:\Users\gpoyd\RiderProjects\Test1\Test1\bin\Debug\net5.0\Test1.pdb
+C:\Users\gpoyd\RiderProjects\Test1\Test1\obj\Debug\net5.0\Test1.csproj.AssemblyReference.cache
+C:\Users\gpoyd\RiderProjects\Test1\Test1\obj\Debug\net5.0\Test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpoyd\RiderProjects\Test1\Test1\obj\Debug\net5.0\Test1.AssemblyInfoInputs.cache
+C:\Users\gpoyd\RiderProjects\Test1\Test1\obj\Debug\net5.0\Test1.AssemblyInfo.cs
+C:\Users\gpoyd\RiderProjects\Test1\Test1\obj\Debug\net5.0\Test1.csproj.CoreCompileInputs.cache
+C:\Users\gpoyd\RiderProjects\Test1\Test1\obj\Debug\net5.0\Test1.dll
+C:\Users\gpoyd\RiderProjects\Test1\Test1\obj\Debug\net5.0\ref\Test1.dll
+C:\Users\gpoyd\RiderProjects\Test1\Test1\obj\Debug\net5.0\Test1.pdb
+C:\Users\gpoyd\RiderProjects\Test1\Test1\obj\Debug\net5.0\Test1.genruntimeconfig.cache
