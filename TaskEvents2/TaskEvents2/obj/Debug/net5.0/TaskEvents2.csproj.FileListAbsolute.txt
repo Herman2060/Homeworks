@@ -1,0 +1,16 @@
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\bin\Debug\net5.0\TaskEvents2.exe
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\bin\Debug\net5.0\TaskEvents2.deps.json
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\bin\Debug\net5.0\TaskEvents2.runtimeconfig.json
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\bin\Debug\net5.0\TaskEvents2.runtimeconfig.dev.json
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\bin\Debug\net5.0\TaskEvents2.dll
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\bin\Debug\net5.0\ref\TaskEvents2.dll
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\bin\Debug\net5.0\TaskEvents2.pdb
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\obj\Debug\net5.0\TaskEvents2.csproj.AssemblyReference.cache
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\obj\Debug\net5.0\TaskEvents2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\obj\Debug\net5.0\TaskEvents2.AssemblyInfoInputs.cache
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\obj\Debug\net5.0\TaskEvents2.AssemblyInfo.cs
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\obj\Debug\net5.0\TaskEvents2.csproj.CoreCompileInputs.cache
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\obj\Debug\net5.0\TaskEvents2.dll
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\obj\Debug\net5.0\ref\TaskEvents2.dll
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\obj\Debug\net5.0\TaskEvents2.pdb
+C:\Users\gpoyd\RiderProjects\TaskEvents2\TaskEvents2\obj\Debug\net5.0\TaskEvents2.genruntimeconfig.cache
